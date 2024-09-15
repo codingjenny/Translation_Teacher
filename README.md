@@ -10,4 +10,4 @@
 2. 評分用戶的翻譯答案
 3. 提供詳細的反饋和建議
 
-![image](./image/first_page.png)
+![image](image/first_page.png)
